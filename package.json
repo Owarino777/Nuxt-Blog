@@ -24,7 +24,7 @@
     "@nuxtjs/robots": "^4.1.7",
     "@nuxtjs/sitemap": "^5.3.2",
     "@nuxtjs/tailwindcss": "^6.11.4",
-    "@stefanobartoletti/nuxt-social-share": "^0.6.1",
+    "@stefanobartoletti/nuxt-social-share": "^3.3.0",
     "@tailwindcss/forms": "^0.5.7",
     "@tailwindcss/typography": "^0.5.10",
     "@vueuse/core": "^10.9.0",
